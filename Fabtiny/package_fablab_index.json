@@ -12,12 +12,12 @@
          {
           "name": "Fablabs AVR Boards",
           "architecture": "avr",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Fablab",
-          "archiveFileName": "0.0.1.zip",
-          "url": "https://github.com/nanusefue/poi/releases/download/0.0.1/0.0.1.zip",
-          "checksum": "SHA-256:202bb91be50e8afeb4b735312d92b559c8250d9270da28dac4acb9f2d211d6d1",
-          "size": "2432224",
+          "archiveFileName": "0.0.2.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/0.0.2.zip",
+          "checksum": "SHA-256:2cf0a117b03d54069eb8fce2c473e54e6d8eef141f2d7e18df972f0c6e1494b3",
+          "size": "2452368",
           "help": {
             "online": "https://github.com/poi/issues"
           },
