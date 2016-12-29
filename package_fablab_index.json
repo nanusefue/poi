@@ -1,0 +1,47 @@
+{
+   "packages":[
+      {
+         "name":"Fabtiny",
+         "maintainer":"Fablab",
+         "websiteURL":"http://labsdieroboter.com",
+         "email":"nanusefue@gmail.com",
+         "help":{
+            "online":"https://labsdieroboter.com/fabtiny"
+         },
+         "platforms":[
+         {
+          "name": "Fablabs AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.1",
+          "category": "Fablab",
+          "url": "https://github.com/digistump/DigistumpArduino/releases/download/0.0.1/digistump-avr-0.0.1.zip",
+          "archiveFileName": "fablab-avr-0.0.1.zip",
+          "checksum": "SHA-256:7F7E9F5AB982163F7A792C411326F0192A35B8A90890B7934F2F424A5426583D",
+          "size": "2491070",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Fablab (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "digistump",
+              "name": "micronucleus",
+              "version": "2.0a5"
+            }
+          ]
+        }
+ 
+        ]
+      }
+   ]
+}
