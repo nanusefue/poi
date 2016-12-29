@@ -6,20 +6,20 @@
          "websiteURL":"http://labsdieroboter.com",
          "email":"nanusefue@gmail.com",
          "help":{
-            "online":"https://labsdieroboter.com/board"
+            "online":"https://labsdieroboter.com/fabtiny"
          },
          "platforms":[
          {
           "name": "Fablabs AVR Boards",
           "architecture": "avr",
-          "version": "0.1.beta",
+          "version": "0.0.1",
           "category": "Fablab",
-          "url": "https://github.com/digistump/DigistumpArduino/releases/download/1.6.7/digistump-avr-1.6.7.zip",
-          "archiveFileName": "fablab-avr-0.1.beta.zip",
+          "url": "https://github.com/digistump/DigistumpArduino/releases/download/0.0.1/digistump-avr-0.0.1.zip",
+          "archiveFileName": "fablab-avr-0.0.1.zip",
           "checksum": "SHA-256:7F7E9F5AB982163F7A792C411326F0192A35B8A90890B7934F2F424A5426583D",
           "size": "2491070",
           "help": {
-            "online": "https://github.com/digistump/DigistumpArduino/issues"
+            "online": "https://github.com/poi/issues"
           },
           "boards": [
             {
