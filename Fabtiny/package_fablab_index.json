@@ -42,7 +42,23 @@
         }
  
         ],
-      "tools": []
+      "tools": [
+
+            {
+             "name": "micronucleus",
+             "version": "2.0a4",
+             "systems": [
+               {
+                 "host": "x86_64-linux-gnu",
+                 "archiveFileName": "micronucleus-2.0a5-linux64.tar.gz",
+                 "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-linux64.tar.gz",
+                 "checksum": "SHA-256:bdbd5ed7256849c5c6e4a92db3a5f68761438f172f46cc1fd49064c03195a291",
+                 "size": "20517"
+               }
+
+             ]
+           }
+      ]
       }
    ]
 }
