@@ -35,7 +35,7 @@
             },
             {
               "packager": "fablab",
-              "name": "micronucleus",
+              "name": "micronucleus-2.0a5",
               "version": "2.0a5"
             }
           ]
@@ -45,8 +45,8 @@
       "tools": [
 
             {
-             "name": "micronucleus",
-             "version": "2.0a4",
+             "name": "micronucleus-2.0a5",
+             "version": "2.0a5",
              "systems": [
                {
                  "host": "x86_64-linux-gnu",
