@@ -6,7 +6,7 @@
          "websiteURL":"http://labsdieroboter.com",
          "email":"nanusefue@gmail.com",
          "help":{
-            "online":"https://labsdieroboter.com/fabtiny"
+            "online":"http://labsdieroboter.com/fabtiny"
          },
          "platforms":[
          {
@@ -16,7 +16,6 @@
           "category": "Fablab",
           "archiveFileName": "0.0.1.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.0.1/0.0.1.zip",
-
           "checksum": "SHA-256:850de453389ba73c5cca005c97cc88dd82047ab708506f79e2c6043186c43766",
           "size": "2479961",
           "help": {
@@ -35,7 +34,7 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "digistump",
+              "packager": "fablab",
               "name": "micronucleus",
               "version": "2.0a5"
             }
