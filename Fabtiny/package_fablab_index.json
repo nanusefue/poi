@@ -225,6 +225,37 @@
               "version": "2.0a5"
             }
           ]
+        },
+         {
+          "name": "Fablabs AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.9",
+          "category": "Fablab",
+          "archiveFileName": "0.0.9.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.9/0.0.9.zip",
+          "checksum": "SHA-256:952beef95da2db209623bde8ed52b048c1dc6d1151b2b9218d174bc17f072e0f",
+          "size": "2295250",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Fablab (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "Fabtiny",
+              "name": "micronucleus-2.0a5",
+              "version": "2.0a5"
+            }
+          ]
         }
  
  
