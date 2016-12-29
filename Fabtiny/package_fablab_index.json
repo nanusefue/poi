@@ -14,10 +14,11 @@
           "architecture": "avr",
           "version": "0.0.1",
           "category": "Fablab",
-          "url": "https://github.com/digistump/DigistumpArduino/releases/download/0.0.1/digistump-avr-0.0.1.zip",
-          "archiveFileName": "fablab-avr-0.0.1.zip",
-          "checksum": "SHA-256:7F7E9F5AB982163F7A792C411326F0192A35B8A90890B7934F2F424A5426583D",
-          "size": "2491070",
+          "archiveFileName": "0.0.1.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.1/0.0.1.zip",
+
+          "checksum": "SHA-256:850de453389ba73c5cca005c97cc88dd82047ab708506f79e2c6043186c43766",
+          "size": "2479961",
           "help": {
             "online": "https://github.com/poi/issues"
           },
