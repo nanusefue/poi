@@ -17,4 +17,4 @@ Fab-Attiny44.build.variant=fablab
 Fab-Attiny44.upload.wait_for_upload_port = false
 Fab-Attiny44.upload.use_1200bps_touch = false
 Fab-Attiny44.upload.disable_flushing = false
-
+Fab-Attiny44.upload.speed=19200
