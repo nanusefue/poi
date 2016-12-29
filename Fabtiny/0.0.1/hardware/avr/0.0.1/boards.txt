@@ -4,7 +4,7 @@ menu.cpu=Processor
 
 ##############################################################
 
-Fab-Attiny44.name=Digispark (Default - 16 mhz)
+Fab-Attiny44.name=Fablab (Default - 16 mhz)
 Fab-Attiny44.upload.using=micronucleusprog
 Fab-Attiny44.upload.protocol=usb
 Fab-Attiny44.upload.tool=micronucleus
