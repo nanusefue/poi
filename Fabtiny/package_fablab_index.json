@@ -275,7 +275,8 @@
                 "host": "x86_64-apple-darwin",
                 "archiveFileName": "micronucleus-2.0a5-osx.tar.gz",
                 "url": "https://github.com/nanusefue/poi/releases/download/0.0.9/micronucleus-2.0a5-osx.tar.gz",
-                "size": "22528"
+                "checksum": "SHA-256:082a6b209b014b7055c2cf62f5e6d6a49b6bc0e8553ed0606318def92c7cc2ea",
+                "size": "7319"
                },
                {
                  "host": "i686-mingw32",
