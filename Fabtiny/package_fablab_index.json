@@ -39,8 +39,224 @@
               "version": "2.0a5"
             }
           ]
-        }
- 
+        },
+         {
+          "name": "Fablabs AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.3",
+          "category": "Fablab",
+          "archiveFileName": "0.0.3.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.3/0.0.3.zip",
+          "checksum": "SHA-256:f1635ec2ad6d9065cc7b12979219bf2b999e725bf0e9c2d6c9fa546a013bf01a",
+          "size": "2366218",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Fablab (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "Fabtiny",
+              "name": "micronucleus-2.0a5",
+              "version": "2.0a5"
+            }
+          ]
+        },
+         {
+          "name": "Fablabs AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.4",
+          "category": "Fablab",
+          "archiveFileName": "0.0.4.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.4/0.0.4.zip",
+          "checksum": "SHA-256:43ab0235de68b0fc4aabad8143f75c3fe55e79e8a2e739c43ba05585eb918521",
+          "size": "2366243",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Fablab (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "Fabtiny",
+              "name": "micronucleus-2.0a5",
+              "version": "2.0a5"
+            }
+          ]
+        },
+         {
+          "name": "Fablabs AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.5",
+          "category": "Fablab",
+          "archiveFileName": "0.0.5.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.5/0.0.5.zip",
+          "checksum": "SHA-256:5cadc8e51c447c285fa8198a55c2d84359552c72b09f190102bb9678b515efa3",
+          "size": "2366251",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Fablab (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "Fabtiny",
+              "name": "micronucleus-2.0a5",
+              "version": "2.0a5"
+            }
+          ]
+        },
+         {
+          "name": "Fablabs AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.6",
+          "category": "Fablab",
+          "archiveFileName": "0.0.6.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.6/0.0.6.zip",
+          "checksum": "SHA-256:10fa8b5f13e51a0b8a8702839720dacd596d86c1510f673a5b67ab31e0443971",
+          "size": "2425429",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Fablab (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "Fabtiny",
+              "name": "micronucleus-2.0a5",
+              "version": "2.0a5"
+            }
+          ]
+        },
+         {
+          "name": "Fablabs AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.7",
+          "category": "Fablab",
+          "archiveFileName": "0.0.7.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.7/0.0.7.zip",
+          "checksum": "SHA-256:35915229443f718389672bfe8abb287e1202166f1ae37a6e19a9b7965671adec",
+          "size": "2425429",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Fablab (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "Fabtiny",
+              "name": "micronucleus-2.0a5",
+              "version": "2.0a5"
+            }
+          ]
+        },
+         {
+          "name": "Fablabs AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.8",
+          "category": "Fablab",
+          "archiveFileName": "0.0.8.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.8/0.0.8.zip",
+          "checksum": "SHA-256:bce65cda090be0e67abc8caa5eaffc06f609ab20788da6609e1b8f658cf3998b",
+          "size": "2295250",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Fablab (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "Fabtiny",
+              "name": "micronucleus-2.0a5",
+              "version": "2.0a5"
+            }
+          ]
+        },
+         {
+          "name": "Fablabs AVR Boards",
+          "architecture": "avr",
+          "version": "0.0.9",
+          "category": "Fablab",
+          "archiveFileName": "0.0.9.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.0.9/0.0.9.zip",
+          "checksum": "SHA-256:952beef95da2db209623bde8ed52b048c1dc6d1151b2b9218d174bc17f072e0f",
+          "size": "2295250",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Fablab (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "Fabtiny",
+              "name": "micronucleus-2.0a5",
+              "version": "2.0a5"
+            }
+          ]
+        } 
         ],
       "tools": [
 
@@ -54,10 +270,32 @@
                  "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-linux64.tar.gz",
                  "checksum": "SHA-256:bdbd5ed7256849c5c6e4a92db3a5f68761438f172f46cc1fd49064c03195a291",
                  "size": "20517"
+               },
+                {
+                "host": "x86_64-apple-darwin",
+                "archiveFileName": "micronucleus-2.0a5-osx.tar.gz",
+                "url": "https://github.com/nanusefue/poi/releases/download/0.0.9/micronucleus-2.0a5-osx.tar.gz",
+                "checksum": "SHA-256:78b704ef11885ed70743c95dd3f165808776d50809b19aff05f580784ae793cf",
+                "size": "7278"
+               },
+               {
+                 "host": "i686-mingw32",
+                 "archiveFileName": "micronucleus-2.0a5-win.zip",
+                 "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-win.zip",
+                 "checksum": "SHA-256:97bd1e8d54f7c1581498908b75bc888bda06aa245700c7c4c926036677cc3394",
+                 "size": "12762"
+               },
+               {
+                 "host": "i686-linux-gnu",
+                 "archiveFileName": "micronucleus-2.0a5-linux32.tar.gz",
+                 "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-linux32.tar.gz",
+                 "checksum": "SHA-256:dec759434670f1bd5ee6691ac3cf0aa42a014549f2f9f1b8900c6b822f9f7a19",
+                 "size": "19092"
                }
 
              ]
            }
+          
       ]
       }
    ]
