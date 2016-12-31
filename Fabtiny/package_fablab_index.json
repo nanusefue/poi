@@ -270,11 +270,8 @@
                  "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-linux64.tar.gz",
                  "checksum": "SHA-256:bdbd5ed7256849c5c6e4a92db3a5f68761438f172f46cc1fd49064c03195a291",
                  "size": "20517"
-               }
-
-             ]
-           },
-           {
+               },
+                {
                 "host": "x86_64-apple-darwin",
                 "archiveFileName": "micronucleus-2.0a5-osx.tar.gz",
                 "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-osx.tar.gz",
@@ -294,7 +291,11 @@
                  "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-linux32.tar.gz",
                  "checksum": "SHA-256:dec759434670f1bd5ee6691ac3cf0aa42a014549f2f9f1b8900c6b822f9f7a19",
                  "size": "19092"
-               },
+               }
+
+             ]
+           }
+          
       ]
       }
    ]
