@@ -23,3 +23,7 @@ KERNEL=="ttyACM*", ATTRS{idVendor}=="16d0", ATTRS{idProduct}=="0753", MODE:="066
 
 ---------------------
 Por cada realease se necesita calcuklar el checksum y el peso en bytes
+
+sha256sum 0.0.8.zip
+
+ls -la 0.0.8.zip 

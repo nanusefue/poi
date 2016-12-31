@@ -277,7 +277,28 @@
                }
 
              ]
-           }
+           },
+           {
+                "host": "x86_64-apple-darwin",
+                "archiveFileName": "micronucleus-2.0a5-osx.tar.gz",
+                "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-osx.tar.gz",
+                "checksum": "SHA-256:B5EB0C7B251CD88F4816186BB931855834141E71A28D90FB9E46788E483AA421",
+                "size": "51203"
+               },
+               {
+                 "host": "i686-mingw32",
+                 "archiveFileName": "micronucleus-2.0a5-win.zip",
+                 "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-win.zip",
+                 "checksum": "SHA-256:7027971118FDE88484AACB5D8CA7867D66E273839EC3B2592616829317BB70E4",
+                 "size": "1712005"
+               },
+               {
+                 "host": "i686-linux-gnu",
+                 "archiveFileName": "micronucleus-2.0a5-linux32.tar.gz",
+                 "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/micronucleus-2.0a5-linux32.tar.gz",
+                 "checksum": "SHA-256:0D4286388EED28D1ECB29AFE81253F24F54D4F0A5C1B2C17507EABD504C595F8",
+                 "size": "21909"
+               },
       ]
       }
    ]
