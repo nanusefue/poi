@@ -1,0 +1,17 @@
+Partlist
+
+Exported from schematic.sch at 8/1/17 18:15
+
+EAGLE Version 7.7.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library  Sheet
+
+IC1      ATTINY44-SSU   ATTINY44-SSU    SOIC14       fab      1
+LED1                    LEDCHIPLED_1206 CHIPLED_1206 adafruit 1
+R3       449 ?          RES-US1206FAB   R1206FAB     fab      1
+R4       0 ?            RES-US1206FAB   R1206FAB     fab      1
+R5       0 ?            RES-US1206FAB   R1206FAB     fab      1
+U$1      ATTINY45SI     ATTINY45SI      SOIC8        fab      1
+U$2      AVRISPSMD      AVRISPSMD       2X03SMD      fab      1

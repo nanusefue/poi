@@ -1,6 +1,6 @@
 
 /*PARTE ATTINY*/
-difference(){
+/*difference(){
 cube([27,16,4]);
 union(){    
 translate([4,3,-1])cube([6,9,6]);       
@@ -32,7 +32,11 @@ translate([26,8,1.6])rotate([90,0,0])cylinder(h=12, r=3, center=true);
 
 
 
-}
+}*/
+$fn=100;
 
+linear_extrude(height = 1, center = true, convexity = 1)
+   import (file = "Tiny4x8x.dxf", layer = "0");
 
-
+linear_extrude(height = 1, center = true, convexity = 1)
+   import (file = "Tiny4x8x.dxf", layer = "Tapa");
