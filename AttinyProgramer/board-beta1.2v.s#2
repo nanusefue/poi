@@ -2262,6 +2262,8 @@ DIN A4, landscape with location and doc. field</description>
 <sheets>
 <sheet>
 <plain>
+<text x="129.54" y="2.54" size="1.778" layer="94" font="vector">Esteban Martin Gimenez</text>
+<text x="76.2" y="2.54" size="1.778" layer="94" font="vector">ISP Programmer v 0.1.2</text>
 </plain>
 <instances>
 <instance part="U$1" gate="G$1" x="71.12" y="121.92"/>
