@@ -1,8 +1,8 @@
 {
    "packages":[
       {
-         "name":"Fabtiny",
-         "maintainer":"Fablab",
+         "name":"Tinyduino",
+         "maintainer":"Esteban Martin Gimenez (Nanusefue) ",
          "websiteURL":"http://labsdieroboter.com",
          "email":"nanusefue@gmail.com",
          "help":{
@@ -10,10 +10,10 @@
          },
          "platforms":[
          {
-          "name": "Fablabs AVR Boards",
+          "name": "Tinyduino AVR Boards",
           "architecture": "avr",
           "version": "0.0.2",
-          "category": "Fablab",
+          "category": "Tinyduino",
           "archiveFileName": "0.0.2.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.0.2/0.0.2.zip",
           "checksum": "SHA-256:2cf0a117b03d54069eb8fce2c473e54e6d8eef141f2d7e18df972f0c6e1494b3",
@@ -23,9 +23,16 @@
           },
           "boards": [
             {
-              "name": "Fablab (16 mhz)"
+              "name": "Tinyduino Mint (Default 8 mhz)"
+
+            },
+                        {
+              "name": "Tinyduino Stracciatella (Default - 8 mhz)"
+
             }
+
            
+
           ],
           "toolsDependencies": [
             {
@@ -34,17 +41,17 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "Fabtiny",
+              "packager": "Tinyduino",
               "name": "micronucleus-2.0a5",
               "version": "2.0a5"
             }
           ]
         },
          {
-          "name": "Fablabs AVR Boards",
+          "name": "Tinyduino AVR Boards",
           "architecture": "avr",
           "version": "0.0.3",
-          "category": "Fablab",
+          "category": "Tinyduino",
           "archiveFileName": "0.0.3.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.0.3/0.0.3.zip",
           "checksum": "SHA-256:f1635ec2ad6d9065cc7b12979219bf2b999e725bf0e9c2d6c9fa546a013bf01a",
@@ -54,7 +61,7 @@
           },
           "boards": [
             {
-              "name": "Fablab (16 mhz)"
+              "name": "Tinyduino (16 mhz)"
             }
            
           ],
@@ -72,10 +79,10 @@
           ]
         },
          {
-          "name": "Fablabs AVR Boards",
+          "name": "Tinyduino AVR Boards",
           "architecture": "avr",
           "version": "0.0.4",
-          "category": "Fablab",
+          "category": "Tinyduino",
           "archiveFileName": "0.0.4.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.0.4/0.0.4.zip",
           "checksum": "SHA-256:43ab0235de68b0fc4aabad8143f75c3fe55e79e8a2e739c43ba05585eb918521",
@@ -85,7 +92,7 @@
           },
           "boards": [
             {
-              "name": "Fablab (16 mhz)"
+              "name": "Tinyduino (16 mhz)"
             }
            
           ],
@@ -103,10 +110,10 @@
           ]
         },
          {
-          "name": "Fablabs AVR Boards",
+          "name": "Tinyduino AVR Boards",
           "architecture": "avr",
           "version": "0.0.5",
-          "category": "Fablab",
+          "category": "Tinyduino",
           "archiveFileName": "0.0.5.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.0.5/0.0.5.zip",
           "checksum": "SHA-256:5cadc8e51c447c285fa8198a55c2d84359552c72b09f190102bb9678b515efa3",
@@ -116,7 +123,7 @@
           },
           "boards": [
             {
-              "name": "Fablab (16 mhz)"
+              "name": "Tinyduino (16 mhz)"
             }
            
           ],
@@ -134,10 +141,10 @@
           ]
         },
          {
-          "name": "Fablabs AVR Boards",
+          "name": "Tinyduino AVR Boards",
           "architecture": "avr",
           "version": "0.0.6",
-          "category": "Fablab",
+          "category": "Tinyduino",
           "archiveFileName": "0.0.6.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.0.6/0.0.6.zip",
           "checksum": "SHA-256:10fa8b5f13e51a0b8a8702839720dacd596d86c1510f673a5b67ab31e0443971",
@@ -147,7 +154,7 @@
           },
           "boards": [
             {
-              "name": "Fablab (16 mhz)"
+              "name": "Tinyduino (16 mhz)"
             }
            
           ],
@@ -165,10 +172,10 @@
           ]
         },
          {
-          "name": "Fablabs AVR Boards",
+          "name": "Tinyduino AVR Boards",
           "architecture": "avr",
           "version": "0.0.7",
-          "category": "Fablab",
+          "category": "Tinyduino",
           "archiveFileName": "0.0.7.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.0.7/0.0.7.zip",
           "checksum": "SHA-256:35915229443f718389672bfe8abb287e1202166f1ae37a6e19a9b7965671adec",
@@ -178,7 +185,7 @@
           },
           "boards": [
             {
-              "name": "Fablab (16 mhz)"
+              "name": "Tinyduino (16 mhz)"
             }
            
           ],
@@ -196,10 +203,10 @@
           ]
         },
          {
-          "name": "Fablabs AVR Boards",
+          "name": "Tinyduino AVR Boards",
           "architecture": "avr",
           "version": "0.0.8",
-          "category": "Fablab",
+          "category": "Tinyduino",
           "archiveFileName": "0.0.8.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.0.8/0.0.8.zip",
           "checksum": "SHA-256:bce65cda090be0e67abc8caa5eaffc06f609ab20788da6609e1b8f658cf3998b",
@@ -209,7 +216,7 @@
           },
           "boards": [
             {
-              "name": "Fablab (16 mhz)"
+              "name": "Tinyduino (16 mhz)"
             }
            
           ],
@@ -227,10 +234,10 @@
           ]
         },
          {
-          "name": "Fablabs AVR Boards",
+          "name": "Tinyduino AVR Boards",
           "architecture": "avr",
           "version": "0.0.9",
-          "category": "Fablab",
+          "category": "Tinyduino",
           "archiveFileName": "0.0.9.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.0.9/0.0.9.zip",
           "checksum": "SHA-256:952beef95da2db209623bde8ed52b048c1dc6d1151b2b9218d174bc17f072e0f",
@@ -240,7 +247,7 @@
           },
           "boards": [
             {
-              "name": "Fablab (16 mhz)"
+              "name": "Tinyduino (16 mhz)"
             }
            
           ],
