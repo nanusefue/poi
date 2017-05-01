@@ -1,0 +1,40 @@
+# See: http://code.google.com/p/arduino/wiki/Platforms
+
+menu.cpu=Processor
+
+##############################################################
+
+Tinyduino-Attiny44.name=Tinyduino Mint (Default - 8 mhz)
+Tinyduino-Attiny44.upload.using=micronucleusprog
+Tinyduino-Attiny44.upload.protocol=usb
+Tinyduino-Attiny44.upload.tool=micronucleus-2.0a5
+Tinyduino-Attiny44.upload.maximum_size=2554
+Tinyduino-Attiny44.build.mcu=attiny44
+Tinyduino-Attiny44.build.f_cpu=16000000L
+Tinyduino-Attiny44.build.board=AVR_NANUSEFUE
+Tinyduino-Attiny44.build.core=tiny
+Tinyduino-Attiny44.build.variant=Tinyduino
+Tinyduino-Attiny44.upload.wait_for_upload_port = false
+Tinyduino-Attiny44.upload.use_1200bps_touch = false
+Tinyduino-Attiny44.upload.disable_flushing = false
+Tinyduino-Attiny44.upload.speed=19200
+
+Tinyduino-Attiny84.name=Tinyduino Stracciatella (Default - 8 mhz)
+Tinyduino-Attiny84.upload.using=micronucleusprog
+Tinyduino-Attiny84.upload.protocol=usb
+Tinyduino-Attiny84.upload.tool=micronucleus-2.0a5
+Tinyduino-Attiny84.upload.maximum_size=6554
+Tinyduino-Attiny84.build.mcu=attiny84
+Tinyduino-Attiny84.build.f_cpu=8000000L
+Tinyduino-Attiny84.build.board=AVR_NANUSEFUE
+Tinyduino-Attiny84.build.core=tiny
+Tinyduino-Attiny84.build.variant=Tinyduino
+Tinyduino-Attiny84.upload.wait_for_upload_port = false
+Tinyduino-Attiny84.upload.use_1200bps_touch = false
+Tinyduino-Attiny84.upload.disable_flushing = false
+Tinyduino-Attiny84.upload.speed=19200
+
+
++attiny85-8.name=ATtiny85 (internal 16 MHz internal PPL clock)
++attiny85-8.bootloader.low_fuses=0xf1
++attiny85-8.bootloader.high_fuses=0xdd
