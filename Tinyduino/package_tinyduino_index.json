@@ -263,7 +263,38 @@
               "version": "2.0a5"
             }
           ]
-        } 
+        },
+         {
+          "name": "Tinyduino AVR Boards",
+          "architecture": "avr",
+          "version": "0.1.0",
+          "category": "Tinyduino",
+          "archiveFileName": "0.1.0.zip",
+          "url": "https://github.com/nanusefue/poi/releases/download/0.1.0/0.1.0.zip",
+          "checksum": "SHA-256:3654dc5ece2c2a22e4e3bae6da7b60031c43484936cbabc99e55234fb2967c94",
+          "size": "2295410",
+          "help": {
+            "online": "https://github.com/poi/issues"
+          },
+          "boards": [
+            {
+              "name": "Tinyduino (16 mhz)"
+            }
+           
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "Tinyduino",
+              "name": "micronucleus-2.0a5",
+              "version": "2.0a5"
+            }
+          ]
+        }  
         ],
       "tools": [
 
