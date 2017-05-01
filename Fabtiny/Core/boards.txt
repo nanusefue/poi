@@ -4,13 +4,13 @@ menu.cpu=Processor
 
 ##############################################################
 
-Fab-Attiny44.name=Fablab (Default - 16 mhz)
+Fab-Attiny44.name=Fablab (Default - 8 mhz)
 Fab-Attiny44.upload.using=micronucleusprog
 Fab-Attiny44.upload.protocol=usb
 Fab-Attiny44.upload.tool=micronucleus-2.0a5
 Fab-Attiny44.upload.maximum_size=2554
 Fab-Attiny44.build.mcu=attiny44
-Fab-Attiny44.build.f_cpu=16000000L
+Fab-Attiny44.build.f_cpu=8000000L
 Fab-Attiny44.build.board=AVR_NANUSEFUE
 Fab-Attiny44.build.core=tiny
 Fab-Attiny44.build.variant=fablab
@@ -18,3 +18,25 @@ Fab-Attiny44.upload.wait_for_upload_port = false
 Fab-Attiny44.upload.use_1200bps_touch = false
 Fab-Attiny44.upload.disable_flushing = false
 Fab-Attiny44.upload.speed=19200
+
+
+Fab-Attiny84.name=Fablab (Default - 8 mhz)
+Fab-Attiny84.upload.using=micronucleusprog
+Fab-Attiny84.upload.protocol=usb
+Fab-Attiny84.upload.tool=micronucleus-2.0a5
+Fab-Attiny84.upload.maximum_size=6554
+Fab-Attiny84.build.mcu=attiny84
+Fab-Attiny84.build.f_cpu=8000000L
+Fab-Attiny84.build.board=AVR_NANUSEFUE
+Fab-Attiny84.build.core=tiny
+Fab-Attiny84.build.variant=fablab
+Fab-Attiny84.upload.wait_for_upload_port = false
+Fab-Attiny84.upload.use_1200bps_touch = false
+Fab-Attiny84.upload.disable_flushing = false
+Fab-Attiny84.upload.speed=19200
+
+
+
++attiny85-8.name=ATtiny85 (internal 16 MHz internal PPL clock)
++attiny85-8.bootloader.low_fuses=0xf1
++attiny85-8.bootloader.high_fuses=0xdd
