@@ -6,7 +6,7 @@
          "websiteURL":"http://labsdieroboter.com",
          "email":"nanusefue@gmail.com",
          "help":{
-            "online":"http://labsdieroboter.com/fabtiny"
+            "online":"http://labsdieroboter.com/Tinyduino"
          },
          "platforms":[
          {
@@ -72,7 +72,7 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "Fabtiny",
+              "packager": "Tinyduino",
               "name": "micronucleus-2.0a5",
               "version": "2.0a5"
             }
@@ -103,7 +103,7 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "Fabtiny",
+              "packager": "Tinyduino",
               "name": "micronucleus-2.0a5",
               "version": "2.0a5"
             }
@@ -134,7 +134,7 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "Fabtiny",
+              "packager": "Tinyduino",
               "name": "micronucleus-2.0a5",
               "version": "2.0a5"
             }
@@ -165,7 +165,7 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "Fabtiny",
+              "packager": "Tinyduino",
               "name": "micronucleus-2.0a5",
               "version": "2.0a5"
             }
@@ -196,7 +196,7 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "Fabtiny",
+              "packager": "Tinyduino",
               "name": "micronucleus-2.0a5",
               "version": "2.0a5"
             }
@@ -227,7 +227,7 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "Fabtiny",
+              "packager": "Tinyduino",
               "name": "micronucleus-2.0a5",
               "version": "2.0a5"
             }
@@ -258,7 +258,7 @@
               "version": "4.8.1-arduino5"
             },
             {
-              "packager": "Fabtiny",
+              "packager": "Tinyduino",
               "name": "micronucleus-2.0a5",
               "version": "2.0a5"
             }
