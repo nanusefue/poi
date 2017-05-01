@@ -271,8 +271,8 @@
           "category": "Tinyduino",
           "archiveFileName": "0.1.0.zip",
           "url": "https://github.com/nanusefue/poi/releases/download/0.1.0/0.1.0.zip",
-          "checksum": "SHA-256:3654dc5ece2c2a22e4e3bae6da7b60031c43484936cbabc99e55234fb2967c94",
-          "size": "2295410",
+          "checksum": "SHA-256:d237c7dc600b242761a2699358c5174c8a33d588f6e9b6e9e3f391a2af2df0ec",
+          "size": "2295409",
           "help": {
             "online": "https://github.com/poi/issues"
           },
